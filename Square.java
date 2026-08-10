@@ -8,5 +8,6 @@ public class Square {
         System.out.println("The square of " + num + " is " + square);
         System.out.println("Developed by  Prajwal Chapagain");
        scanner.close();
+
     }
 }
